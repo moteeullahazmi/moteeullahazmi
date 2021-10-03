@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 //TOP LAnguage
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moteeullahazmi)](https://github.com/moteeullahazmi)
 
-//View
-![](https://komarev.com/ghpvc/?moteeullahazmi&color=blue)
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+
+
+![](https://https://github.com/moteeullahazmi/?username=your-github-username&style=flat-square)
 ![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
 
