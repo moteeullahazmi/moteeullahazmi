@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/moteeullahazmi/count.svg)
