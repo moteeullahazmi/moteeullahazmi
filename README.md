@@ -14,9 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+//Rank
 [![Moteeullah 's github stats](https://github-readme-stats.vercel.app/api?username=moteeullahazmi&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/moteeullahazmi)
-
+//TOP LAnguage
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moteeullahazmi)](https://github.com/moteeullahazmi)
 
+//View
 ![](https://komarev.com/ghpvc/?moteeullahazmi&color=blue)
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+
