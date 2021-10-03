@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Moteeullah 's github stats](https://github-readme-stats.vercel.app/api?username=moteeullahazmi&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/moteeullahazmi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/moteeullahazmi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moteeullahazmi&layout=compact)](https://github.com/moteeullahazmi/github-readme-stats)
 
 
 
