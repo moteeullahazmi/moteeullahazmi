@@ -20,7 +20,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moteeullahazmi)](https://github.com/moteeullahazmi)
 
 
-
-![](https://https://github.com/moteeullahazmi/?username=your-github-username&style=flat-square)
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
-
+![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
